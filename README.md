@@ -15,7 +15,7 @@ description: "深港专线vs普通线路的区别是什么？通过真实案例�
 ![适用行业](https://img.shields.io/badge/适用-电商%7C金融%7C游戏%7CIDC-red?style=for-the-badge)
 
 # [深港专线与普通线路区别：跨境企业提速与稳定性的最佳选择](https://www.hostifyx.com/zh/hk-iepl/) 
-G: [@HostifyX_Aaron](https://t.me/HostifyX_Aaron)
+TG: [@HostifyX_Aaron](https://t.me/HostifyX_Aaron)
 
 
 ## 📖 目录
